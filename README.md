@@ -129,7 +129,7 @@ AI Mock Interview Platform Prefilled Code/
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/Nitish567478/AI-Mock-Interview-Assistant
+git clone 
 cd "AI Mock Interview Platform Prefilled Code"
 ```
 
